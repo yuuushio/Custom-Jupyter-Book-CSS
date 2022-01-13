@@ -1,7 +1,7 @@
 # Custom Jupyter-Book CSS
 Recently came across [jupyter-book](https://jupyterbook.org/intro.html) and thought it would great for having my notes output in a consistent, book-like, format; which I can then also upload as a static site, effortlessly. Special thing about jupyter-book is that it can be used for other things, among notes, as it integrates Jupyter Notebooks.
 
-This repo contains my custom CSS for the jupyter-books that I create, as the default theme, while great, was lacking a few styling tweaks for me, personally. I've also created a small script; when executed, replaces the required CSS files (with the custom ones) in the desired jp-book folder.
+This repo contains my custom CSS for the jupyter-books that I create, as the default theme, while great, was lacking a few styling tweaks for me, personally. I've also created a small script; when executed, replaces the required CSS files (with the custom ones) in the desired jp-book directory.
 
 Styling inspired by [HonKit](https://honkit.netlify.app/).
 
