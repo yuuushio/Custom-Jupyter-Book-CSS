@@ -15,7 +15,7 @@ Tbc
 Personal style guide when writing jupyter-books:
 - Avoid `code blocks` in headings.
 - Avoid more than 1 nested list.
-- Separate single line of code if it's too long/exceeds width.
+- Separate single line of code (in fenced code blocks) if it's too long/exceeds width.
 
 ## TODO
 - Pre-package the fonts in use and define font-face
