@@ -16,6 +16,7 @@ Personal style guide when writing jupyter-books:
 - Avoid `code blocks` in headings.
 - Avoid more than 1 nested list.
 - Separate single line of code (in fenced code blocks) if it's too long/exceeds width.
+- Do not start a section with a list. Doesn't look good.
 
 ## TODO
 - Pre-package the fonts in use and define font-face
