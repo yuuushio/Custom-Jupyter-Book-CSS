@@ -20,3 +20,4 @@ Personal style guide when writing jupyter-books:
 
 ## TODO
 - Pre-package the fonts in use and define font-face
+- Continue to fix any inconsistent syntax highlighting
