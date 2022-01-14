@@ -11,6 +11,12 @@ Tbc
 ## Requirements
 - Font stack from [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts); haven't tested how it would be without nerd-fonts.
 
+## Usage
+```bash
+chmod +x jp_book.sh
+./jp_book.sh </path/to/book/>
+```
+
 ## JP-Book Style Guide
 Personal style guide when writing jupyter-books:
 - Avoid `code blocks` in h1 headings.
